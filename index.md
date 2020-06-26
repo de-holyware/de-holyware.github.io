@@ -12,3 +12,5 @@ Ein Schauspieler, der in vielen "Hau-Drauf"-Filmen mit Terence Hill spielte. Die
 * usw.
 * usf.
 
+> Ohne Heu kann das beste Pferd nicht furzen
+> (Zwei Himmelhunde auf dem Weg zur Hölle)
