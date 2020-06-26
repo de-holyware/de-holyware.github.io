@@ -14,3 +14,5 @@ Ein Schauspieler, der in vielen "Hau-Drauf"-Filmen mit Terence Hill spielte. Die
 
 > Ohne Heu kann das beste Pferd nicht furzen
 > (Zwei Himmelhunde auf dem Weg zur Hölle)
+
+<img src="https://en.wikipedia.org/wiki/Bud_Spencer#/media/File:Bud_Spencer_2015.jpg" width="250"/>
